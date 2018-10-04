@@ -1,0 +1,15 @@
+Dreadnaught 
+25 3
+Drifter
+800 46
+Skiff
+1200 34
+Adrono
+700 38
+
+Doomsday
+15 2
+Frigate
+1300 67
+Behemoth
+2000 12
